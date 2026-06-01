@@ -82,7 +82,10 @@ footer {
   margin-top: 10px;
 }
 
-.nav-item{
-  border:1
-  
+nav .nav-item {
+
+  border: 1 px;
+  border-radius: 5px;
+  padding: 1rem;
+  background: #33CC33;
 }
